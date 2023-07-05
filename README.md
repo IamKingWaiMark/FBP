@@ -63,7 +63,7 @@ Supported Data Types
 (IOS, Mac Editor (nodes only)
 [Engine V5.0, 5.1]
 
-( Android, IOS, Window Editor, Mac Editor (nodes only))
+( Android, IOS, Window Editor (nodes only), Mac Editor (nodes only))
 [Engine V4.27 ]
 
     Add Documents
