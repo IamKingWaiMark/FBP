@@ -57,12 +57,14 @@ Supported Data Types
     Map (Add & Get)
 
 # Firestore
-(Windows, Android, IOS, Mac Editor)
+(Windows, Android)
+[Engine V5.0, 5.1, 5.2]
 
+(IOS, Mac Editor (nodes only)
 [Engine V5.0, 5.1]
-( Android, IOS, Window Editor, Mac Editor)
 
-(Engine V4.27 )
+( Android, IOS, Window Editor, Mac Editor (nodes only))
+[Engine V4.27 ]
 
     Add Documents
     Update Documents
